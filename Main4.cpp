@@ -12,6 +12,6 @@ int main()
     cout << "\n Array values are " << endl;
     for (i = 0; i < 5; i++)
         cout << arr[i] << std::endl;
-    cin.get();
+    getch();
     return 0;
 }
