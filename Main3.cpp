@@ -13,5 +13,6 @@ int main()
     cin>>t;
     s=(p*r*t)/100;
     cout<<"Simple Interest is "<<s;
+    getch();
     return 0;
 }
