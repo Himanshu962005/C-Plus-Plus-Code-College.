@@ -1,4 +1,4 @@
-// C++ program to print the largest number in an array.
+// C++ program to print the largest and smallest number in an array.
 #include <iostream>
 #include <conio.h>
 using namespace std;
