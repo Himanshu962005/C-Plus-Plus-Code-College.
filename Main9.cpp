@@ -1,4 +1,4 @@
-// C++ program to Insert Node at the end of single linked list.
+// C++ program to insert node at the beginning of a single linked list.
 #include <iostream>
 using namespace std;
 // Structure for NODE
