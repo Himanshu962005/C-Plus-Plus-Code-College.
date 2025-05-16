@@ -1,4 +1,4 @@
-// Write a program to find sum of two number and it also calculate average of both using Multiple Inheritance.
+// Write a program to find sum of two number using Multiple Inheritance and it also calculate average of both using Hybrid Inheritance.
 #include <iostream>
 #include <conio.h>
 using namespace std;
