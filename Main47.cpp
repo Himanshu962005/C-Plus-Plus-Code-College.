@@ -23,7 +23,7 @@ public:
     {
         B = b;
     }
-    void diaplaydata()
+    void displaydata()
     {
         cout << "\nSecond Number = " << B;
     }
@@ -53,7 +53,7 @@ int main()
     x.getdata(9);
     x.setdata(6);
     x.printdata();
-    x.diaplaydata();
+    x.displaydata();
     x.CalcSum();
     x.CalcAvg();
     getch();
