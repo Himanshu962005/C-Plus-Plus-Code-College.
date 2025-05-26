@@ -8,10 +8,10 @@ private:
     int Real, Imag;
 
 public:
-    Complex()
+    Complex() // Default Constructor.
     {
     }
-    Complex(int r, int i)
+    Complex(int r, int i) // Parameterized Constructor.
     {
         Real = r;
         Imag = i;
