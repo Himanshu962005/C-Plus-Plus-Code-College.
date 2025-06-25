@@ -1,4 +1,4 @@
-// Write a C++ program to claculate factorial of given numbers using constructor.
+// Write a C++ program to calculate factorial of given numbers using Constructor.
 #include <iostream>
 #include <conio.h>
 using namespace std;
